@@ -13,6 +13,9 @@ width: 100vw;
   display: flex;
  
 }
+.disappear {
+	display: none;
+}
 .yellow {
 	display: flex;
 	height: calc(20.2vh - 4px);
