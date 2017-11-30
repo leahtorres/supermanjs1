@@ -1,8 +1,5 @@
 body {
 	background-color: #BF1515;
-	margin:0;
-	border:0;
-	padding:0;
 }
 .container {
 display: block;
@@ -17,7 +14,6 @@ width: 100vw;
 	display: none;
 }
 .yellow {
-	display: flex;
 	height: 50vh;
 	width: 100vw;
 }
@@ -42,7 +38,6 @@ background-size: 100% 100%;
 .button {
 margin: auto;
     width: 50%;
-    position:relative;
 	height: 10vh;
 }
 h2 {
