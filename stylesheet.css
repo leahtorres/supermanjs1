@@ -28,6 +28,8 @@ background-size: 100% 100%;
 display: flex;
   height: 50vh;
   width: 50vw;
+-webkit-filter: blur(0);
+filter: blur(0);
 }
 .blue {
  background-image: url(clarkent.jpg);
