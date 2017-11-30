@@ -18,7 +18,7 @@ width: 100vw;
 }
 .yellow {
 	display: flex;
-	height: calc(20.2vh - 4px);
+	height: 35vh;
 	width: 100vw;
 }
 .purple {
