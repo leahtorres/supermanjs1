@@ -68,10 +68,10 @@ display: block;
   width: 100vw;
 }
 .comic11 {
-content:url(comic11.jpeg);	
+content: url(comic11.jpg);	
 }
 .comic22 {
-content:url(comic22.jpeg);
+content: url(comic22.jpg);
 }
 .comic1 {
 background-image: url(comic88.png);
