@@ -40,10 +40,12 @@ background-size: 100% 100%;
   width: 50vw;
 }
 .button {
-	margin: 0 auto;
-	height: 15vh;
-	width: 15vw;
-  border: 3px solid #330A0A;
+	height:20px; 
+    width:100px; 
+    margin: -20px -50px; 
+    position:relative;
+    top:50%; 
+    left:50%;
 	text-align: center;
 }
 demo {
