@@ -37,6 +37,7 @@ background-size: 100% 100%;
 margin: auto;
     width: 50%;
 	height: 10vh;
+	background-color: red;
 }
 h2 {
   font-style: italic;
@@ -72,8 +73,7 @@ background-image: url(comic88.png);
   height: 50vh;
   display: flex;
 	background-repeat: no-repeat;
-background-size: 100% 100%;
-	
+background-size: 100% 100%;	
 }
 .comic2 {
 background-image: url(comic2.jpg);
