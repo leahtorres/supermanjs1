@@ -7,3 +7,9 @@ function comica(elem) {
 function comicb(elem) {
 	elem.classList.toggle("comic22");
 }
+function comicc(elem) {
+	elem.classList.toggle("comic111");
+}
+function comicd(elem) {
+	elem.classList.toggle("comic222");
+}
