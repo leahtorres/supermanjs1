@@ -67,7 +67,7 @@ font-style: italic;
 font-size: 20px;
 font-weight: bold;
 display: block;
-color: blue;
+color: #01A9EC;
 }
 .flex-container {
 	display: flex;
@@ -76,10 +76,10 @@ color: blue;
   width: 100vw;
 }
 .comic11 {
-content: url("comic11.jpg");	
+content: url("comic11.jpeg");	
 }
 .comic22 {
-content: url("comic22.jpg");
+content: url("comic22.jpeg");
 }
 .comic1 {
 background-image: url(comic88.png);
