@@ -25,3 +25,9 @@ function comicg(elem) {
 function comich(elem) {
 	elem.classList.toggle("comic88");
 }
+var x = document.getElementById("myAudio"); 
+
+function playAudio() { 
+    x.play(); 
+} 
+
