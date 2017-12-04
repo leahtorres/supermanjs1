@@ -196,19 +196,17 @@ background-size: 100% 100%;
   .comic8 {
     width: 50vw;
   }
-.button {
-	width: 22vw;
+p {
+color: blue;
+font-size: 7px;
 }
 }
 @media screen and (max-width: 500px) {
 body {
 background-color: #0D3189;
-	}
-	.button {
-		background-color: #ff0000;
-	}
-	p {
-	color: blue;
-	font-size: 7px;
+}
+p {
+color: red;
+font-size: 14px;
 }
 }
