@@ -1,11 +1,9 @@
 function myFunction(id) {
     document.getElementById("demo").classList.toggle("disappear");
 }
-
-
-function comic1(elem) {
+function comica(elem) {
 	elem.classList.toggle("comic11");
 }
-function comic2(elem) {
+function comicb(elem) {
 	elem.classList.toggle("comic22");
 }
