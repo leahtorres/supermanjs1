@@ -21,17 +21,25 @@ width: 100vw;
 background-image: url(superman.jpg);
 background-repeat: no-repeat;
 background-size: 100% 100%;
+opacity: 0.3;
 display: flex;
   height: 50vh;
   width: 50vw;
+}
+.purple:hover {
+opacity:1;
 }
 .blue {
  background-image: url(clarkent.jpg);
 background-repeat: no-repeat;
 background-size: 100% 100%;
   display: flex;
+opacity: 0.3;
   height: 50vh;
   width: 50vw;
+}
+.blue:hover {
+opacity:1;
 }
 .button {
 margin: auto;
@@ -76,11 +84,30 @@ color: #01A9EC;
   width: 100vw;
 }
 .comic11 {
-content: url("comic11.jpeg");	
+content: url(comic11.jpeg);	
 }
 .comic22 {
-content: url("comic22.jpeg");
+content: url(comic22.jpeg);
 }
+.comic33 {
+content:url(
+}
+.comic44 {
+content: url(
+}
+.comic55 {
+content: url( 
+}
+.comic66 {
+content: url(
+}
+.comic77 {
+content: url(
+}
+.comic88 {
+content: url(
+}
+	
 .comic1 {
 background-image: url(comic88.png);
 	width: 25vw;
