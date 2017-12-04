@@ -91,8 +91,10 @@ background-image: url(comic88.png);
   display: flex;
 	background-repeat: no-repeat;
 background-size: 100% 100%;
--webkit-transform: scale(1.3);
-	transform: scale(1.3);
+}
+.comic1:hover {
+-webkit-animation: circle .75s;
+	animation: circle .75s;
 }
 .comic2 {
 background-image: url(comic2.jpg);
@@ -101,8 +103,6 @@ background-image: url(comic2.jpg);
   display: flex;
 	background-repeat: no-repeat;
 background-size: 100% 100%;
--webkit-transform: scale(1.3);
-	transform: scale(1.3);
 }
 .comic3 {
 	background-image: url(comic7.png);
@@ -111,8 +111,6 @@ background-size: 100% 100%;
   display: flex;
 	background-repeat: no-repeat;
 background-size: 100% 100%;
--webkit-transform: scale(1);
-	transform: scale(1);
 }
 .comic4 {
 	background-image: url(comic6.jpg);
@@ -121,8 +119,6 @@ background-size: 100% 100%;
   display: flex;
 	background-repeat: no-repeat;
 background-size: 100% 100%;
--webkit-transform: scale(1);
-	transform: scale(1);
 }
 .comic5 {
 	background-image: url(comic5.jpg);
@@ -131,10 +127,6 @@ background-size: 100% 100%;
   display: flex;
 	background-repeat: no-repeat;
 background-size: 100% 100%;
-	-webkit-filter: grayscale(0) blur(0);
-	filter: grayscale(0) blur(0);
-	-webkit-transition: .3s ease-in-out;
-	transition: .3s ease-in-out;
 }
 .comic6 {
 background-image: url(comic1.jpg);
@@ -143,10 +135,6 @@ height: 50vh;
 display: flex;
 background-repeat: no-repeat;
 background-size: 100% 100%;
-	-webkit-filter: grayscale(0) blur(0);
-	filter: grayscale(0) blur(0);
-	-webkit-transition: .3s ease-in-out;
-	transition: .3s ease-in-out;
 }
 .comic7 {
 background-image: url(comic3.png);
@@ -155,8 +143,6 @@ height: 50vh;
 display: flex;
 background-repeat: no-repeat;
 background-size: 100% 100%;
-	-webkit-animation: circle .75s;
-	animation: circle .75s;
 }
 .comic8 {
 background-image: url(comic4.jpg);
@@ -165,8 +151,6 @@ height: 50vh;
 display: flex;
 background-repeat: no-repeat;
 background-size: 100% 100%;
-	-webkit-animation: circle .75s;
-	animation: circle .75s;
 }
 .comica {
 content: url(comic11.jpeg);	
