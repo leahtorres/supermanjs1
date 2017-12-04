@@ -83,30 +83,6 @@ color: #01A9EC;
   height: 100vh;
   width: 100vw;
 }
-.comica {
-background-image: url(comic11.jpg);	
-}
-.comicb {
-background-image: url(comic22.jpg);
-}
-.comicc {
-content:url(comic111.jpg);
-}
-.comicd {
-content: url(comic222.jpg);
-}
-.comice {
-content: url(comic66.jpg);
-}
-.comicf {
-content: url(comic55.jpg);
-}
-.comicg {
-content: url(comic77.jpg);
-}
-.comich {
-content: url(comic88.jpg);
-}	
 .comic1 {
 background-image: url(comic88.png);
 	width: 25vw;
@@ -148,29 +124,53 @@ background-size: 100% 100%;
 background-size: 100% 100%;
 }
 .comic6 {
-	background-image: url(comic1.jpg);
-	width: 25vw;
-    height: 50vh;
-  display: flex;
-	background-repeat: no-repeat;
+background-image: url(comic1.jpg);
+width: 25vw;
+height: 50vh;
+display: flex;
+background-repeat: no-repeat;
 background-size: 100% 100%;
 }
 .comic7 {
-	background-image: url(comic3.png);
-	width: 25vw;
-    height: 50vh;
-  display: flex;
-	background-repeat: no-repeat;
+background-image: url(comic3.png);
+width: 25vw;
+height: 50vh;
+display: flex;
+background-repeat: no-repeat;
 background-size: 100% 100%;
 }
 .comic8 {
 background-image: url(comic4.jpg);
-	width: 25vw;
-    height: 50vh;
-  display: flex;
+width: 25vw;
+height: 50vh;
+display: flex;
 background-repeat: no-repeat;
 background-size: 100% 100%;	
 }
+.comica {
+background-image: url(comic11.jpeg);	
+}
+.comicb {
+background-image: url(comic22.jpeg);
+}
+.comicc {
+content:url(comic111.jpeg);
+}
+.comicd {
+content: url(comic222.jpeg);
+}
+.comice {
+content: url(comic66.jpeg);
+}
+.comicf {
+content: url(comic55.jeg);
+}
+.comicg {
+content: url(comic77.jpeg);
+}
+.comich {
+content: url(comic88.jpeg);
+}	
 @media screen and (max-width: 700px) {
   .comic1 {
     width: 50vw;
