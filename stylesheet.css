@@ -92,10 +92,6 @@ background-image: url(comic88.png);
 	background-repeat: no-repeat;
 background-size: 100% 100%;
 }
-.comic1:hover {
--webkit-animation: circle .75s;
-	animation: circle .75s;
-}
 .comic2 {
 background-image: url(comic2.jpg);
 	width: 25vw;
