@@ -43,8 +43,8 @@ opacity:1;
 }
 button {
 margin: 0 auto;
-width: 30%;
-height: 10%;
+width: 15%;
+height: 5vh;
 font-size: 10px;
 display: block;
 }
@@ -65,7 +65,7 @@ font-size: 36px;
 p {
 text-align: center;
 font-style: italic;
-font-size: 10px;
+font-size: 15px;
 font-weight: bold;
 display: block;
 color: #01A9EC;
@@ -167,7 +167,7 @@ background-size: 100% 100%;
   }
 p {
 color: blue;
-font-size: 10px;
+font-size: 14px;
 }
 }
 @media screen and (max-width: 500px) {
@@ -176,6 +176,6 @@ background-color: #0D3189;
 }
 p {
 color: red;
-font-size: 14px;
+font-size: 7px;
 }
 }
