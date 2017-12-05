@@ -1,28 +1,27 @@
 function myFunction(id) {
     document.getElementById("demo").classList.toggle("disappear");
 }
-function comica(elem) {
-	elem.classList.toggle("comic11");
+function ona(elem) {
+elem.classList.toggle("ona");
 }
-function comicb(elem) {
-	elem.classList.toggle("comic22");
+function onb(elem) {
+elem.classList.toggle("onb");
 }
-function comicc(elem) {
-	elem.classList.toggle("comic111");
+function onc(elem) {
+elem.classList.toggle("onc");
 }
-function comicd(elem) {
-	elem.classList.toggle("comic222");
+function ond(elem) {
+elem.classList.toggle("ond");
 }
-function comice(elem) {
-	elem.classList.toggle("comic66");
+function one(elem) {
+elem.classList.toggle("one");
 }
-function comicf(elem) {
-	elem.classList.toggle("comic55");
+function onf(elem) {
+elem.classList.toggle("onf");
 }
-function comicg(elem) {
-	elem.classList.toggle("comic77");
+function ong(elem) {
+elem.classList.toggle("ong");
 }
-function comich(elem) {
-	elem.classList.toggle("comic88");
+function onh(elem) {
+elem.classList.toggle("onh");
 }
-
