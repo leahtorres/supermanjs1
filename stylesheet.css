@@ -6,9 +6,11 @@ display: block;
 height: 70vh;
 width: 100vw;
 }
+audio { 
+   display:none;
+}
 .green {
   display: flex;
- 
 }
 .disappear {
 	display: none;
