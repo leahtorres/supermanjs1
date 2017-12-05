@@ -43,9 +43,8 @@ opacity:1;
 }
 button {
 margin: 0 auto;
-width: 60%;
-border: 3px solid #73AD21;
-padding: 10px;
+width: 30%;
+height: 10%;
 font-size: 10px;
 display: block;
 }
@@ -66,7 +65,7 @@ font-size: 36px;
 p {
 text-align: center;
 font-style: italic;
-font-size: 20px;
+font-size: 10px;
 font-weight: bold;
 display: block;
 color: #01A9EC;
