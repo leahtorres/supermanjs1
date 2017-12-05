@@ -21,7 +21,7 @@ width: 100vw;
 background-image: url(superman.jpg);
 background-repeat: no-repeat;
 background-size: 100% 100%;
-opacity: 0.3;
+opacity: 0.5;
 display: flex;
   height: 50vh;
   width: 50vw;
@@ -34,7 +34,7 @@ opacity:1;
 background-repeat: no-repeat;
 background-size: 100% 100%;
   display: flex;
-opacity: 0.3;
+opacity: 0.5;
   height: 50vh;
   width: 50vw;
 }
@@ -140,30 +140,6 @@ display: flex;
 background-repeat: no-repeat;
 background-size: 100% 100%;
 }
-.comica {
-content: url(comic11.jpeg);	
-}
-.comicb {
-content: url(comic22.jpeg);
-}
-.comicc {
-content: url(comic111.jpeg);
-}
-.comicd {
-content: url(comic222.jpeg);
-}
-.comice {
-content: url(comic66.jpeg);
-}
-.comicf {
-content: url(comic55.jeg);
-}
-.comicg {
-content: url(comic77.jpeg);
-}
-.comich {
-content: url(comic88.jpeg);
-}	
 @media screen and (max-width: 700px) {
   .comic1 {
     width: 50vw;
