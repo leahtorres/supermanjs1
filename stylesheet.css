@@ -16,7 +16,7 @@ audio {
 	display: none;
 }
 .yellow {
-	height: 100vh;
+	height: 150vh;
 	width: 100vw;
 }
 .purple {
@@ -67,7 +67,7 @@ font-size: 36px;
 p {
 text-align: center;
 font-style: italic;
-font-size: 15px;
+font-size: 18px;
 font-weight: bold;
 display: block;
 color: #01A9EC;
@@ -141,6 +141,30 @@ height: 50vh;
 display: flex;
 background-repeat: no-repeat;
 background-size: 100% 100%;
+}
+.ona {
+content: url(comic222.jpeg);
+}
+.onb {
+content: url(comic33.jpeg);
+}
+.onc {
+content: url(comic111.jpeg);
+}
+.ond {
+content: url(comic22.jpeg);
+}
+.one {
+content: url(comic55.jpeg);
+}
+.onf {
+content: url(comic66.jpeg);
+}
+.ong {
+content: url(comic77.jpeg);
+}
+.onh {
+content: url(comic88.jpeg);
 }
 @media screen and (max-width: 700px) {
   .comic1 {
