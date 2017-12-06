@@ -30,8 +30,10 @@ function onh(elem) {
 elem.classList.toggle("onh");
 }
 function show(elem) {
-	elem.innerHTML = "I'm Superman";
+elem.innerHTML= "Im superman";
+elem.classList.toggle("purpletwo");
 }
 function Text(elem) {
-	elem.innerHTML = "clark kent";
+	elem.innerHTML= "Im Clark kent";
+elem.classList.toggle("bluetwo");
 }
