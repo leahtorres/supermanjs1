@@ -29,7 +29,7 @@ display: flex;
   width: 50vw;
 }
 .purple:hover {
-opacity:1;
+opacity:0.05;
 }
 .blue {
  background-image: url(clarkent.jpg);
@@ -41,7 +41,7 @@ opacity: 0.5;
   width: 50vw;
 }
 .blue:hover {
-opacity:1;
+opacity:0.05;
 }
 button {
 margin: 0 auto;
