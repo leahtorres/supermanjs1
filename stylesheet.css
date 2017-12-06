@@ -98,6 +98,9 @@ background-image: url(comic88.png);
 	background-repeat: no-repeat;
 background-size: 100% 100%;
 }
+.comic1:hover {
+cursor: pointer;
+}
 .comic2 {
 background-image: url(comic2.jpg);
 	width: 25vw;
@@ -105,6 +108,9 @@ background-image: url(comic2.jpg);
   display: flex;
 	background-repeat: no-repeat;
 background-size: 100% 100%;
+}
+.comic2:hover {
+cursor: pointer;
 }
 .comic3 {
 	background-image: url(comic7.png);
@@ -114,6 +120,9 @@ background-size: 100% 100%;
 	background-repeat: no-repeat;
 background-size: 100% 100%;
 }
+.comic3:hover {
+cursor: pointer;
+}
 .comic4 {
 	background-image: url(comic6.jpg);
 	width: 25vw;
@@ -121,6 +130,9 @@ background-size: 100% 100%;
   display: flex;
 	background-repeat: no-repeat;
 background-size: 100% 100%;
+}
+.comic4:hover {
+cursor: pointer;
 }
 .comic5 {
 	background-image: url(comic5.jpg);
@@ -130,6 +142,9 @@ background-size: 100% 100%;
 	background-repeat: no-repeat;
 background-size: 100% 100%;
 }
+.comic5:hover {
+cursor: pointer;
+}
 .comic6 {
 background-image: url(comic1.jpg);
 width: 25vw;
@@ -137,6 +152,9 @@ height: 50vh;
 display: flex;
 background-repeat: no-repeat;
 background-size: 100% 100%;
+}
+.comic6:hover {
+cursor: pointer;
 }
 .comic7 {
 background-image: url(comic3.png);
@@ -146,6 +164,9 @@ display: flex;
 background-repeat: no-repeat;
 background-size: 100% 100%;
 }
+.comic7:hover {
+cursor: pointer;
+}
 .comic8 {
 background-image: url(comic4.jpg);
 width: 25vw;
@@ -153,6 +174,9 @@ height: 50vh;
 display: flex;
 background-repeat: no-repeat;
 background-size: 100% 100%;
+}
+.comic8:hover {
+cursor: pointer;
 }
 .ona {
 content: url(comic222.jpeg);
