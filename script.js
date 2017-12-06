@@ -29,3 +29,9 @@ elem.classList.toggle("ong");
 function onh(elem) {
 elem.classList.toggle("onh");
 }
+function showText(elem){
+	elem.innerHTML = "I'm Superman";
+}
+function Texttwo(elem){
+	elem.innerHTML = "clark kent";
+}
