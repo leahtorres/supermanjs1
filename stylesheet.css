@@ -29,7 +29,7 @@ display: flex;
   width: 50vw;
 }
 .purple:hover {
-opacity:0.5;
+opacity: 0.05;
 }
 .blue {
  background-image: url(clarkent.jpg);
