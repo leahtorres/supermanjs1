@@ -30,15 +30,6 @@ display: flex;
 }
 .purple:hover {
 opacity:0.5;
-position: absolute;
-  transition: 1s ease;
-}
-.text {
-  color: white;
-  font-size: 20px;
-  position: absolute;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
 }
 .blue {
  background-image: url(clarkent.jpg);
@@ -58,6 +49,9 @@ width: 15%;
 height: 5vh;
 font-size: 10px;
 display: block;
+}
+button:hover {
+box-shadow: inset 0 0 0 3px #3a7999;
 }
 h2 {
   font-style: italic;
