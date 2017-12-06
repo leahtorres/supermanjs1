@@ -29,15 +29,9 @@ display: flex;
   width: 50vw;
 }
 .purple:hover {
-opacity:0.05;
+opacity:0.5;
 position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 100%;
-  width: 100%;
-  transition: .5s ease;
+  transition: 1s ease;
 }
 .text {
   color: white;
@@ -79,11 +73,16 @@ font-weight: bold;
 text-align: center;
 text-transform: capitalize;
  text-shadow: 3px 5px red;
-font-size: 36px;
+font-size: 44px;
 }
-p {
+h3 {
 text-align: center;
 font-style: italic;
+font-weight: bold;
+display: block;
+color: blue;
+}
+p {
 font-size: 18px;
 font-weight: bold;
 display: block;
@@ -221,4 +220,8 @@ p {
 color: red;
 font-size: 10px;
 }
+}
+@media screen and (max-width: 400px) {
+p {
+font-size: 15px:
 }
