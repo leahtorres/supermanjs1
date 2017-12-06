@@ -33,6 +33,9 @@ display: flex;
 opacity: 0.05;
 cursor: pointer;
 }
+.purpletwo {
+content: url(purpletwo.jpg);
+}
 .blue {
  background-image: url(clarkent.jpg);
 background-repeat: no-repeat;
@@ -45,6 +48,9 @@ opacity: 0.5;
 .blue:hover {
 opacity:0.05;
 cursor: pointer;
+}
+.bluetwo {
+content: url(bluetwo.jpg);
 }
 /*https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_onclick this is the website I got the code from to make the words that appear onclick of the button be under the button rather next to.*/
 button {
