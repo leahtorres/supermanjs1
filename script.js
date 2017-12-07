@@ -30,10 +30,8 @@ function onh(elem) {
 elem.classList.toggle("onh");
 }
 function show(elem) {
-elem.innerHTML= "Im superman incredible strength, the ability to fly. X-ray vision, super speed, invulnerability to most attacks, super hearing, and super breath.";
 elem.classList.toggle("purpletwo");
 }
 function text(elem) {
-	elem.innerHTML= "Im Clark kent";
 elem.classList.toggle("bluetwo");
 }
