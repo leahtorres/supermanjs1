@@ -133,7 +133,7 @@ background-size: 100% 100%;
 cursor: pointer;
 }
 .comic4 {
-	background-image: url(kent.gif);
+	background-image: url();
 	width: 25vw;
     height: 50vh;
   display: flex;
@@ -144,7 +144,7 @@ background-size: 100% 100%;
 cursor: pointer;
 }
 .comic5 {
-	background-image: url(smile.gif);
+	background-image: url(fourcomic.gif);
 	width: 25vw;
     height: 50vh;
   display: flex;
