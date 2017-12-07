@@ -100,7 +100,7 @@ color: #01A9EC;
   width: 100vw;
 }
 .comic1 {
-background-image: url(comic88.png);
+background-image: url(symbol.gif);
 	width: 25vw;
   height: 50vh;
   display: flex;
@@ -111,7 +111,7 @@ background-size: 100% 100%;
 cursor: pointer;
 }
 .comic2 {
-background-image: url(comic2.jpg);
+background-image: url(super.gif);
 	width: 25vw;
     height: 50vh;
   display: flex;
@@ -122,7 +122,7 @@ background-size: 100% 100%;
 cursor: pointer;
 }
 .comic3 {
-	background-image: url(comic7.png);
+	background-image: url(othercomic.gif);
 	width: 25vw;
     height: 50vh;
   display: flex;
@@ -133,7 +133,7 @@ background-size: 100% 100%;
 cursor: pointer;
 }
 .comic4 {
-	background-image: url(comic6.jpg);
+	background-image: url(smile.gif);
 	width: 25vw;
     height: 50vh;
   display: flex;
@@ -144,7 +144,7 @@ background-size: 100% 100%;
 cursor: pointer;
 }
 .comic5 {
-	background-image: url(comic5.jpg);
+	background-image: url(fight.gif);
 	width: 25vw;
     height: 50vh;
   display: flex;
@@ -155,7 +155,7 @@ background-size: 100% 100%;
 cursor: pointer;
 }
 .comic6 {
-background-image: url(comic1.jpg);
+background-image: url(changecomic.jpeg);
 width: 25vw;
 height: 50vh;
 display: flex;
@@ -166,7 +166,7 @@ background-size: 100% 100%;
 cursor: pointer;
 }
 .comic7 {
-background-image: url(comic3.png);
+background-image: url(bed.gif);
 width: 25vw;
 height: 50vh;
 display: flex;
@@ -177,7 +177,7 @@ background-size: 100% 100%;
 cursor: pointer;
 }
 .comic8 {
-background-image: url(comic4.jpg);
+background-image: url(face.gif);
 width: 25vw;
 height: 50vh;
 display: flex;
