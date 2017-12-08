@@ -3,7 +3,7 @@ body {
 }
 .container {
 display: block;
-height: 100vh;
+height: 85vh;
 width: calc(200vw/2vw);
 }
 /*the audio code was found in, https://www.w3schools.com/html/tryit.asp?filename=tryhtml5_audio_all and I displayed it none out of my understanding so the player icon isn't shown*/
