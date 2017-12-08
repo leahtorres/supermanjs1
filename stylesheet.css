@@ -24,7 +24,6 @@ audio {
 background-image: url(superman.jpg);
 background-repeat: no-repeat;
 background-size: 100% 100%;
-opacity: 0.5;
 display: flex;
   height: 50vh;
   width: 50vw;
@@ -41,12 +40,11 @@ content: url(supermanbio.jpg);
 background-repeat: no-repeat;
 background-size: 100% 100%;
   display: flex;
-opacity: 0.9;
   height: 50vh;
   width: 50vw;
 }
 .blue:hover {
-opacity:0.9;
+opacity: 0.9;
 cursor: pointer;
 }
 .bluetwo {
