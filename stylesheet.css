@@ -63,6 +63,9 @@ background: rgba(0,0,0,0);
 	color: #3a7999;
 box-shadow: inset 0 0 0 3px #3a7999;
 }
+#demo {
+content: url(kyptonite.gif);
+}
 /*the button hover was taken from, http://www.developerdrive.com/2015/01/8-simple-css-hover-effects/*/
 h2 {
   font-style: italic;
