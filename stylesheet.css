@@ -100,7 +100,7 @@ color: #01A9EC;
   width: 100vw;
 }
 .comic1 {
-background-image: url(symbol.gif);
+background-image: url(comic222.jpeg);
 	width: 25vw;
   height: 50vh;
   display: flex;
@@ -111,7 +111,7 @@ background-size: 100% 100%;
 cursor: pointer;
 }
 .comic2 {
-background-image: url(super.gif);
+background-image: url(comic33.jpg);
 	width: 25vw;
     height: 50vh;
   display: flex;
@@ -122,7 +122,7 @@ background-size: 100% 100%;
 cursor: pointer;
 }
 .comic3 {
-	background-image: url(fight.gif);
+	background-image: url(comic111.jpeg);
 	width: 25vw;
     height: 50vh;
   display: flex;
@@ -133,7 +133,7 @@ background-size: 100% 100%;
 cursor: pointer;
 }
 .comic4 {
-	background-image: url(supm.gif);
+	background-image: url(comic22.jpeg);
 	width: 25vw;
     height: 50vh;
   display: flex;
@@ -144,7 +144,7 @@ background-size: 100% 100%;
 cursor: pointer;
 }
 .comic5 {
-	background-image: url(fourcomic.gif);
+	background-image: url(comic55.jpeg);
 	width: 25vw;
     height: 50vh;
   display: flex;
@@ -155,7 +155,7 @@ background-size: 100% 100%;
 cursor: pointer;
 }
 .comic6 {
-background-image: url(kent.gif);
+background-image: url(comic66.jpeg);
 width: 25vw;
 height: 50vh;
 display: flex;
@@ -166,7 +166,7 @@ background-size: 100% 100%;
 cursor: pointer;
 }
 .comic7 {
-background-image: url(bed.gif);
+background-image: url(comic77.jpeg);
 width: 25vw;
 height: 50vh;
 display: flex;
@@ -177,7 +177,7 @@ background-size: 100% 100%;
 cursor: pointer;
 }
 .comic8 {
-background-image: url(face.gif);
+background-image: url(comic88.jpeg);
 width: 25vw;
 height: 50vh;
 display: flex;
@@ -186,30 +186,30 @@ background-size: 100% 100%;
 }
 .comic8:hover {
 cursor: pointer;
-}
+}symbol.gif
 .ona {
-content: url(comic222.jpeg);
+content: url(symbol.gif);
 }
 .onb {
-content: url(comic33.jpg);
+content: url(super.gif);
 }
 .onc {
-content: url(comic111.jpeg);
+content: url(fight.gif);
 }
 .ond {
-content: url(comic22.jpeg);
+content: url(supm.gif);
 }
 .one {
-content: url(comic55.jpeg);
+content: url(fourcomic.gif);
 }
 .onf {
-content: url(comic66.jpeg);
+content: url(kent.gif);
 }
-.ong {
-content: url(comic77.jpeg);
+.ong {bed.gif
+content: url(bed.gif);
 }
 .onh {
-content: url(comic88.jpeg);
+content: url(face.gif);
 }
 @media screen and (max-width: 700px) {
   .comic1 {
