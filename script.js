@@ -2,6 +2,7 @@
 //this effect happens with the use of toggle, and the reson I'm using document.getelementbyid, I want to indicate that specific id found in html, to get the effect.
 function myFunction(id) {
     document.getElementById("demo").classList.toggle("disappear");
+    document.getElementById("words").classList.toggle("disappear");
 }
 //the following lines from 7 to 30 are all similar but for different divs. Elem is used rather than document piece of code because the div is a class.
 //the on.. the word in the percentisis, in css with a dot infront adding a content of a image so it changes to another image.
