@@ -1,0 +1,38 @@
+body {
+  background-image: url(sm.jpg);
+}
+hgroup {
+   text-align: center;
+}
+h1 {
+      font-size: 68px;
+  color: #0029CF;
+   font-style: italic;
+  font-weight: bold;
+}
+h2 {
+  font-size: 65px;
+  color: #0029CF;
+   font-style: italic;
+  font-weight: bold;
+}
+h3 {
+  font-size: 60px;
+  color: #0029CF;
+  font-style: italic;
+  font-weight: bold;
+}
+h4 {
+  font-size: 55px;
+  color: #0029CF;
+   font-style: italic;
+  font-weight: bold;
+}
+h5 {
+  font-size: 40px;
+  color: red;
+   font-style: italic;
+}
+a {
+    color: red;
+}
