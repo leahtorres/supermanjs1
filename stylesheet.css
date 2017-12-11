@@ -91,11 +91,12 @@ font-weight: bold;
 display: block;
 color: blue;
 }
-p {
+h4 {
 font-size: 18px;
 font-weight: bold;
 display: block;
 color: #01A9EC;
+	
 }
 .flex-container {
 	display: flex;
@@ -240,7 +241,7 @@ content: url(face.gif);
   .comic8 {
     width: 50vw;
   }
-p {
+h4 {
 color: blue;
 font-size: 14px;
 }
@@ -249,12 +250,12 @@ font-size: 14px;
 body {
 background-color: #0D3189;
 }
-p {
+h4 {
 color: red;
 font-size: 10px;
 }
 }
 @media screen and (max-width: 400px) {
-p {
+h4 {
 font-size: 15px:
 }
