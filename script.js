@@ -37,5 +37,8 @@ elem.classList.toggle("bluetwo");
 }
 
 document.getElementById("p1").innerHTML = "It's not a bird";
+a.innerHTML = 'Align ME TO CENTER!';
 document.getElementById("p2").innerHTML = "It's not a plane";
+a.innerHTML = 'Align ME TO CENTER!';
 document.getElementById("p3").innerHTML = "It's Superman";
+a.innerHTML = 'Align ME TO CENTER!';
