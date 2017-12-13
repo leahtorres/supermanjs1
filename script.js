@@ -35,7 +35,7 @@ elem.classList.toggle("purpletwo");
 function text(elem) {
 elem.classList.toggle("bluetwo");
 }
-
+//Because in html I made an id, I have to use the document for javascript, because I'm adding text in javascript, I don't need to use a heading tag, the text will appear. 
 document.getElementById("p1").innerHTML = "It's not a bird";
 document.getElementById("p2").innerHTML = "It's not a plane";
 document.getElementById("p3").innerHTML = "It's Superman";
